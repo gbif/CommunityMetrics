@@ -8,8 +8,10 @@ Comparison of a metric, indicator and a trend
 |Purpose|Basic measurement|Summarizes biodiversity status|Shows whether things are improving or declining|
 |Structure|Numerical value (e.g., count, area, %, etc.)|Aggregated value (e.g., index, composite score)|Time-series graph, rate of change|
 
+Below are a list of examples and we hope to build on these through their active development (where feasible) and through the addition of supplementary analytics suggested by our community as issues.
+
 # Examples
-## Potential Metrics from GBIF Data (Basic Measurements)
+## Potential Metrics (Basic Measurements)
 - Number of species occurrences in a given area
   - Example: 10,000 bird occurrences recorded in the Amazon Rainforest in 2023.
 - Number of unique species recorded
@@ -21,7 +23,7 @@ Comparison of a metric, indicator and a trend
 - Temporal distribution of observations
   - Example: 20% of bat observations in Europe occur in summer months.
 
-## Potential Indicators from GBIF Data (Summarized Metrics)
+## Potential Indicators (Summarized Metrics)
 - Species Richness Index (SRI) – The total number of species recorded in a specific area.
   - Example: SRI = 500 species recorded in the Congo Basin in 2023.
 - Species Evenness Index – Measures how evenly individuals are distributed among species.
@@ -35,7 +37,7 @@ Comparison of a metric, indicator and a trend
 - Human Impact Indicator – Measures the number of species occurrences in human-modified landscapes.
   - Example: 40% of mammal occurrences in Europe come from urban or agricultural areas
 
-## Trends from GBIF Data (Changes Over Time)
+## Trends (Changes Over Time)
 - Species Range Shift Trend – Tracks how species distributions are changing due to climate change.
   - Example: GBIF records show that the European Bee-eater (Merops apiaster) has expanded 200 km northward over 30 years due to rising temperatures.
 - Population Decline Trend – Uses occurrence data to infer population trends.
