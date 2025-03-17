@@ -1,8 +1,8 @@
 # Community Metrics
-The repository serves as a workspace for collecting input from the GBIF community on the creation of data products derived from GBIF - mediated data that can complement those already provided through GBIF´s data analytics. The goal of this work is to produce new or further develop existing metrics, indicators and trend data products to support decision making.  
+The repository serves as a workspace for collecting input from the GBIF community on the creation of data products derived from GBIF - mediated data that can complement those already provided through GBIF´s data analytics. The goal of this work is to produce new or further develop existing metrics, indicators and time series (trend) data products to support decision making.  
 
-Comparison of a metric, indicator and a trend 
-| Product   |  Metric  | Indicator | Trend   |
+Comparison of a metric, indicator and a time series 
+| Product   |  Metric  | Indicator | Time Series |
 |:------:   |:------:  |:------:   |:------: |
 |Definition |Metrics are raw data points extracted from GBIF datasets|A processed metric that provides insight|A change in an indicator over time|
 |Purpose|Basic measurement|Summarizes biodiversity status|Shows whether things are improving or declining|
@@ -37,7 +37,7 @@ Below are a list of examples and we hope to build on these through their active 
 - Human Impact Indicator – Measures the number of species occurrences in human-modified landscapes.
   - Example: 40% of mammal occurrences in Europe come from urban or agricultural areas
 
-## Trends (Changes Over Time)
+## Time Series (Trends Over Time)
 - Species Range Shift Trend – Tracks how species distributions are changing due to climate change.
   - Example: GBIF records show that the European Bee-eater (Merops apiaster) has expanded 200 km northward over 30 years due to rising temperatures.
 - Population Decline Trend – Uses occurrence data to infer population trends.
